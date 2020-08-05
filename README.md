@@ -1,5 +1,23 @@
 # explain-like-im-five
 
+## Variables
+Variables are like your hands.
+Someone throws you a ball. 
+When your hands catches it, you store the ball in your hand.
+
+You can now use the ball that is in your hand.
+
+Someone can throw you a another ball.
+If it's small, maybe you can hold the two balls.
+If not, maybe replace the previously caught ball.
+
+## Application Programming Interface
+APIs are like the spouts of water dispensers.
+If you want to get the water resource, 
+you need to interact with the spout as an interface.
+
+This protects your water resource from being accessed without limitations.
+
 ## Database
 Database is like toy box.
 
