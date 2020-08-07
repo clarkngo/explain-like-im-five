@@ -42,6 +42,19 @@ You hire the rancher named Kubernetes and tell him of all the other corrals (nod
 
 The rancher is responsible optimizing your cattle ranch as efficient as possible and making it scale as long as you tell him of all the locations that his allowed to move the cows to. You can also tell him to only grow the ranch to a certain size or to dynamically scale larger to produce more milk based on the dairy consumption demand by the population (auto-scaling).
 
+## Model View Controller
+Source: https://softwareengineering.stackexchange.com/questions/127624/what-is-mvc-really
+
+MVC (Model, View, Controller) is a pattern for organising code in an application to improve maintainability.
+
+Imagine a photographer with his camera in a studio. A customer asks him to take a photo of a box.
+
+The box is the model, the photographer is the controller and the camera is the view.
+
+Because the box does not know about the camera or the photographer, it is completely independent. This separation allows the photographer to walk around the box and point the camera at any angle to get the shot/view that he wants.
+
+Non-MVC architectures tend to be tightly integrated together. If the box, the controller and the camera were one-and-the-same-object then, we would have to pull apart and then re-build both the box and the camera each time we wanted to get a new view. Also, taking the photo would always be like trying to take a selfie - and that's not always very easy.
+
 ## Content Management System
 
 ## Webhooks
